@@ -1,16 +1,45 @@
-### Hi there 👋
+### Óla👋! Eu Sou Queli Gramacho <br/>
 
-<!--
-**Quelii/Quelii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Codificar é minha paixão e meu objetivo é continuar aprendendo a ser uma profissional melhor a cada dia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/queliane-oliveira-6315bb213)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_quelinha/)
+
+
+
+![Queli GitHub stats](https://github-readme-stats.vercel.app/api?username=Quelii&show_icons=true&theme=highcontrast)
+
+
+## Tecnologias Que Uso No Meu Dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
+## Meu Painel
+[![Queli Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quelii&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Meu Portifolio
+
+[Queli Gramacho](https://queliane.000webhostapp.com/PortifolioWeb/)
+
+#### Contate-me
+<div aling="center">
+  
+- [Whatsapp](https://wa.me/message/XF4FOEZXQLTIF1)<br/>
+
+- [E-mail](https://mail.google.com/mail/u/0/#inbox?compose=new)<br/>
+  
+<div/>
+
