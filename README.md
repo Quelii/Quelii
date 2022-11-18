@@ -1,8 +1,10 @@
-<h1 text_align="center"># Óla👋! Eu Sou Queli Gramacho <h1/><br/>
+<h1 text_align="center"> Óla👋! Eu Sou Queli Gramacho <h1/><br/>
 
-Codificar é minha paixão e meu objetivo é continuar aprendendo a ser uma profissional melhor a cada dia.
+ *Codificar é minha paixão e meu objetivo é continuar aprendendo a ser uma profissional melhor a cada dia.* 
 
-
+<a>
+<img aling-itens="center" src="https://images.unsplash.com/photo-1573496773905-f5b17e717f05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80">
+</a>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/queliane-oliveira-6315bb213)
