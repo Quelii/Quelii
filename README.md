@@ -7,15 +7,10 @@
 </a>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/queliane-oliveira-6315bb213)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_quelinha/)
 
 
-
-![Queli GitHub stats](https://github-readme-stats.vercel.app/api?username=Quelii&show_icons=true&theme=highcontrast)
-
-
-## Tecnologias Que Uso No Meu Dia
+## Tecnologias Que Possuo Dominio
+  <div align="center">
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,22 +21,41 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img align="center" alt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 </div>
-
-## Meu Painel
+</div>
+  
+## Meu Painel Git
+  <div align="center">
+    
 [![Queli Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quelii&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## Meu Portifolio
+    
+    
+</div>
+  
+  ## Estatística 
+ <div align="center">
+   
+![Queli GitHub stats](https://github-readme-stats.vercel.app/api?username=Quelii&show_icons=true&theme=highcontrast)
+   
+</div>
+  
+##  Portifolio
 
 [Queli Gramacho](https://queliane.000webhostapp.com/PortifolioWeb/)
 
-## Meu Blog
+##  Blog
   
   [Viagem Feliz🛫](https://queliane.000webhostapp.com/blog_php_02/)
   
 #### Contate-me
+  
 <div aling="center">
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/queliane-oliveira-6315bb213)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_quelinha/)
   
 - [Whatsapp](https://wa.me/message/XF4FOEZXQLTIF1)<br/>
 
