@@ -1,4 +1,4 @@
-<h1 text_align="center"> Óla👋! Eu Sou Queli Gramacho <h1/><br/>
+<h1 text_align="center"> Óla👋! Eu Sou Queliane Gramacho <h1/><br/>
 
  *Codificar é minha paixão e meu objetivo é continuar aprendendo a ser uma profissional melhor a cada dia.* 
 
