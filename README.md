@@ -49,6 +49,9 @@
 ##  Blog
   
   [Viagem Feliz🛫](https://queliane.000webhostapp.com/blog_php_02/)
+
+##Dev.to
+[queli](https://dev.to/queli).
   
 #### Contate-me
   
